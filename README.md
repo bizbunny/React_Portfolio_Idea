@@ -1,3 +1,4 @@
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bizbunny/bizbunny.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -10,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [linkedin](https://linkedin.com/in/vi-anh-nguyen-7a5698103)
 
 ## image testing
-<img src="https://img.itch.zone/aW1hZ2UvNzQ3NDQ5LzQyMDg5ODAuanBn/original/1W%2B2c%2B.jpg" alt="duck">
+![Image of Duck Game](https://img.itch.zone/aW1hZ2UvNzQ3NDQ5LzQyMDg5ODAuanBn/original/1W%2B2c%2B.jpg)
 
 ### Markdown
 
