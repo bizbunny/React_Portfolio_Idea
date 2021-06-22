@@ -9,6 +9,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [instagram](https://www.instagram.com/anh_bizbunny/)
 [linkedin](https://linkedin.com/in/vi-anh-nguyen-7a5698103)
 
+## image testing
+<img src="https://img.itch.zone/aW1hZ2UvNzQ3NDQ5LzQyMDg5ODAuanBn/original/1W%2B2c%2B.jpg" alt="duck">
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
