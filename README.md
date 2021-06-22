@@ -1,10 +1,5 @@
-<!--<link href="styles.css" rel="stylesheet"></link>-->
-<style>
-  body {
-    background: #ffead7;
-  }
-</style>
-<body>
+<!--<link href="styles.css" rel="stylesheet"></link>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bizbunny/bizbunny.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -49,6 +44,46 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.-->
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="styles.css">
+<title>Website</title>
+</head>
+<body>
+    <div class="banner">Weird Plushies Store</div>
+    <div class="topnav">
+        <div class = "dropdown"><a class="active" href="#">Home</a></div>
+        <div class = "dropdown">
+            <button class = "dropbtn"><a href="#">Button</a></button>
+            <div class="dropdown-content">
+                <a href="#">Tab1</a>
+                <a href="#">Tab2</a>
+                <a href="#">Tab3</a>
+                <a href="#"Tab4</a>
+            </div>
+        </div>
+        <div class = "dropdown"><a href="#">Tab</a></div>
+        <div class = "dropdown"><a href="#">Tab</a></div>
+        <div class = "dropdown"><a href="#">Tab</a></div>
+        
+        <!-- Social media-->
+        <!-- Add icon library -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!-- Add font awesome icons -->
+        <a href="#" class="fa fa-facebook"></a>
+        <a href="#" class="fa fa-twitter"></a>
+        <a href ="#" class = "fa fa-instagram"></a>
+         <!-- Shopping icon-->
+        <div class = "purchase"><a href ="#" class = "fa fa-search"></a><a href ="#" class = "fa fa-shopping-cart"></a></div>
+        
+    </div>
+    <h1>Welcome!</h1>
+    <p>lorem ipsum</p>
+    <h2>blah blah</h2>
+    <p>blah blah</p>
 </body>
+</html>
 
