@@ -1,2 +1,2 @@
 # bizbunny.github.io
-[file link](index.html)
+[file link](public/index.html)
